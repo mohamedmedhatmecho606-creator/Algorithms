@@ -1,4 +1,4 @@
-ominator Algorithm — Design & Analysis
+Dominator Algorithm — Design & Analysis
 
 A project that solves the Dominator Problem using two different algorithmic approaches:
 
