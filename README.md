@@ -170,8 +170,8 @@ This gives a speedup of nearly **5900x**.
 # 📂 Project Structure
 
 ```text
-├── brute_force.cpp
-├── divide_and_conquer.cpp
+├── non_recursive.c
+├── recursive
 ├── report.pdf
 └── README.md
 ```
